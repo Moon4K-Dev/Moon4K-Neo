@@ -8,6 +8,8 @@
 
 # TODO
 
+- [ ] Menus
+
 - [ ] Basic 4K Gameplay
 
 - [ ] Easy way to add songs
