@@ -8,13 +8,13 @@
 
 # TODO
 
-[ ] Basic 4K Gameplay
+- [ ] Basic 4K Gameplay
 
-[ ] Easy way to add songs
+- [ ] Easy way to add songs
 
-[ ] StepMania Chart support
+- [ ] StepMania Chart support
 
-[ ] In-game Song Downloader
+- [ ] In-game Song Downloader
 
 # Credits
 
