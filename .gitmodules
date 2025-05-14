@@ -1,0 +1,3 @@
+[submodule "source/flixel"]
+	path = source/flixel
+	url = https://github.com/NeoFlixel-Org/NeoFlixel-lib
