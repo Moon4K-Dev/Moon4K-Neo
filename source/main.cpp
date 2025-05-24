@@ -1,5 +1,5 @@
 #include "flixel/FlxGame.h"
-#include "moon4k/states/PlayState.h"
+#include "moon4k/states/SplashState.h"
 #include "imports.h"
 
 struct MainConfig {
@@ -23,7 +23,7 @@ int main(int argc, char* argv[]) {
             config.title
         );
 
-        game.switchState(new PlayState());
+        game.switchState(new SplashState());
 
         if (config.startFullscreen) {
             game.setFullscreen(true);

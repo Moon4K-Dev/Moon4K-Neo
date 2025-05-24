@@ -25,6 +25,9 @@
     <Filter Include="Source Files\external">
       <UniqueIdentifier>{f6969e8d-ba08-4eb1-aa0b-9a112f8bc6da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Moon4K\game">
+      <UniqueIdentifier>{f6075db6-6c01-4ea0-864e-1d2d1ab31935}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\source\main.cpp">
@@ -74,6 +77,15 @@
     </ClCompile>
     <ClCompile Include="..\..\external\tinyxml2.cpp">
       <Filter>Source Files\external</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moon4k\states\SplashState.cpp">
+      <Filter>Source Files\Moon4K\states</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moon4k\game\Conductor.cpp">
+      <Filter>Source Files\Moon4K\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\moon4k\game\Song.cpp">
+      <Filter>Source Files\Moon4K\game</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
