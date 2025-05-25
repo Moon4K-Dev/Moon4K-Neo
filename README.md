@@ -1,5 +1,7 @@
 # Moon4K Neo
 
+* Gonna actually do this in hamburgerEngine cuz why the fuck not + its more stable <3, maybe(koi) I'll come back to this in the future.
+
 * My attempt at recoding Moon4K in [NeoFlixel](https://github.com/NeoFlixel-Org/NeoFlixel), my c++ game engine based on HaxeFlixel's code (I guess it's a c++ port of it).
 
 * Funny 4k rhythm game originally made by basically three people
